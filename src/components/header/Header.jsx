@@ -40,7 +40,7 @@ const Header = () => {
             <div className="header__wrap container">
             <div className="logo">
                 <img src={logo} alt='logo' style={{width:'50px'}}/>
-                <Link to='/'>Movies</Link>
+                <Link to='/'>LeMovies</Link>
             </div>
                 {/* <div style={{display:'flex',alignItems:'center', justifyContent:'center', }}> */}
                     <ul className="header__nav">
